@@ -1,0 +1,7 @@
+requests
+python-dotenv
+edge-tts
+pygame
+pyaudio
+sounddevice
+numpy
